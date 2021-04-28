@@ -1,0 +1,6 @@
+framework module GYLog {
+  umbrella header "GYLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

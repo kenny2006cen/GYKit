@@ -1,0 +1,22 @@
+{
+  "name": "GYLog",
+  "version": "0.1.0",
+  "summary": "A short description of GYLog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jianglincen/GYLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jianglincen": "jianglc@idoosmart.com"
+  },
+  "source": {
+    "git": "https://github.com/jianglincen/GYLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GYLog/Classes/**/*"
+}
